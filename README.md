@@ -21,8 +21,8 @@
 
 ## Program
 ~~~
-DEVELOPED BY: Titus Ratna Kumar Karivella 
-Register number : 212224230292
+DEVELOPED BY: Mageshkumar U
+Register number : 212224240085
 M = 9
 def puzzle(a):
     for i in range(M):
